@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of projects and resume are available at 
 
-- 💬 Ask me about **react**
+- 💬 Ask me about **Programming**
 
 - 📫 How to reach me **aayushchoudhary1921@gmail.com**
 
