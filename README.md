@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **DSA**
 
-- 👨‍💻 All of projects and resume are available at "https://aayushportfolio-eta.vercel.app/#Portfolio"
+- 👨‍💻 All of projects and resume are available at (https://aayushportfolio-eta.vercel.app/#Portfolio) 
 
 - 💬 Ask me about **Programming**
 
